@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.blue-grad {
+    background: linear-gradient(97.65deg, #337fab 0.33%, #094263 93.35%);
+  }
+  
+  .blue-grad-2 {
+    background: linear-gradient(
+      97.73deg,
+      #2474a3 -6.96%,
+      #0b5e8e 23.5%,
+      #043451 92.79%
+    );
+  }
+  
+  .black-grad {
+    background: linear-gradient(219.84deg, #474747 4.14%, #222222 44.22%);
+  }
+  .btnt{
+    background: linear-gradient(-219deg,rgb(88, 81, 81),rgb(0, 0, 0));
+  }
